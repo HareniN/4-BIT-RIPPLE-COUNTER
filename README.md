@@ -44,16 +44,19 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
  Developed by:N.Hareni  RegisterNumber: 24900023
 */
 
-![image](https://github.com/user-attachments/assets/f4d3f06f-7841-4859-b22d-ebb1ca9a6f85)
+![4 bit ripple counter code](https://github.com/user-attachments/assets/29c208f5-930c-4e2e-b846-a2a950a15f16)
+
+
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
-![image](https://github.com/user-attachments/assets/b63c14e4-89d3-40b6-9032-bf23cd2493f8)
+![4 bit ripple counter diagram](https://github.com/user-attachments/assets/7579f63e-bac0-43f4-861a-f4f3b868e63a)
+
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-![image](https://github.com/user-attachments/assets/34a41413-ce5c-43cd-8507-ab01a8ebea27)
 
+![4 bit ripple counter waveform](https://github.com/user-attachments/assets/dc76dd2f-c48c-42f4-a70a-5f50a40817fd)
 
 
 **RESULTS**
